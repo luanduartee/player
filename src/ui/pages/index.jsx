@@ -10,7 +10,7 @@ const musics = [
     {
         id: 2,
         name: 'Cut My Hair',
-        artist: 'Tate McRae',
+        artist: 'Tate McRa',
         Time: 100
 
     }
